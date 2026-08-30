@@ -1,0 +1,8 @@
+version: 1.9.5
+files:
+  - url: Horizon-Setup-1.9.5.exe
+    sha512: z9gacFBVM1SQZ83GSLT7PQigJLcLANs5en1/rtmiDQcb7dAfrM45H7/NJytIJq9+zgAdRyaLn2bkX1YxVT7KiA==
+    size: 107707536
+path: Horizon-Setup-1.9.5.exe
+sha512: z9gacFBVM1SQZ83GSLT7PQigJLcLANs5en1/rtmiDQcb7dAfrM45H7/NJytIJq9+zgAdRyaLn2bkX1YxVT7KiA==
+releaseDate: '2026-08-30T20:50:31.080Z'
