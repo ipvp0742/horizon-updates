@@ -1,8 +1,8 @@
-version: 1.9.6
+version: 1.9.7
 files:
-  - url: Horizon-Setup-1.9.6.exe
-    sha512: p1q7RrdxtaqwGxNqbUNS+RxaoUC9NcJ8+hu1uH1zuczj4L5inZzS8eqOM/AxfPsZYfOv+KEOvwZn37BaQ7Eliw==
-    size: 107707427
-path: Horizon-Setup-1.9.6.exe
-sha512: p1q7RrdxtaqwGxNqbUNS+RxaoUC9NcJ8+hu1uH1zuczj4L5inZzS8eqOM/AxfPsZYfOv+KEOvwZn37BaQ7Eliw==
-releaseDate: '2026-08-31T00:18:16.077Z'
+  - url: Horizon-Setup-1.9.7.exe
+    sha512: 1PX+kd8cBi3TNqPM1MTE+nW1HbDcYHRd/HMAR7nSYBzgFLYAaq6hsWz0T3ADWu2w1rurE1h2M6DO0TLcR3KroQ==
+    size: 107707724
+path: Horizon-Setup-1.9.7.exe
+sha512: 1PX+kd8cBi3TNqPM1MTE+nW1HbDcYHRd/HMAR7nSYBzgFLYAaq6hsWz0T3ADWu2w1rurE1h2M6DO0TLcR3KroQ==
+releaseDate: '2026-08-31T14:57:54.270Z'
