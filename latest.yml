@@ -1,8 +1,8 @@
 version: 1.9.10
 files:
   - url: Horizon-Setup-1.9.10.exe
-    sha512: VeCVlfDnlXBzsv9ZhuGT3HnvSeZn+qD6dNgp5rmI3TOC3xJ+Ss1oJOyscTyif/nTseh9n8/0whUmrmrsYWeFyQ==
-    size: 107707761
+    sha512: uSuIeYkmVRv97O8uWvGyirYW2J03Zsszl7A9/b+OS/m0vhK1wSzcOd7S/bmiz2IehFQxDbNJEvioEIrbmBTqCA==
+    size: 107707738
 path: Horizon-Setup-1.9.10.exe
-sha512: VeCVlfDnlXBzsv9ZhuGT3HnvSeZn+qD6dNgp5rmI3TOC3xJ+Ss1oJOyscTyif/nTseh9n8/0whUmrmrsYWeFyQ==
-releaseDate: '2026-09-01T03:32:06.214Z'
+sha512: uSuIeYkmVRv97O8uWvGyirYW2J03Zsszl7A9/b+OS/m0vhK1wSzcOd7S/bmiz2IehFQxDbNJEvioEIrbmBTqCA==
+releaseDate: '2026-09-01T03:37:03.271Z'
