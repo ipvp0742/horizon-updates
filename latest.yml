@@ -1,8 +1,8 @@
-version: 1.9.20
+version: 1.10.0
 files:
-  - url: Horizon-Setup-1.9.20.exe
-    sha512: DhrRdnEshLTo4J1r4DtOB/uviQ36lYqda9SjNJtEhueaWI+Go1fSQ16gNvRMTiU1IakcZ2guceUjc1Bg5LnQyg==
-    size: 114924138
-path: Horizon-Setup-1.9.20.exe
-sha512: DhrRdnEshLTo4J1r4DtOB/uviQ36lYqda9SjNJtEhueaWI+Go1fSQ16gNvRMTiU1IakcZ2guceUjc1Bg5LnQyg==
-releaseDate: '2026-09-12T17:15:50.234Z'
+  - url: https://github.com/ipvp0742/horizon-updates/releases/download/v1.10.0/Horizon-Setup-1.10.0.exe
+    sha512: qHKGB0rok8/9KfLV3eCV/kdpmDNAAPw1uCVW6kJVl1tXYyuLaqemafASUPQKKZDTJwnXfIPnyTbznPXjEjd0/w==
+    size: 114926071
+path: https://github.com/ipvp0742/horizon-updates/releases/download/v1.10.0/Horizon-Setup-1.10.0.exe
+sha512: qHKGB0rok8/9KfLV3eCV/kdpmDNAAPw1uCVW6kJVl1tXYyuLaqemafASUPQKKZDTJwnXfIPnyTbznPXjEjd0/w==
+releaseDate: '2026-10-21T01:42:49.210Z'
